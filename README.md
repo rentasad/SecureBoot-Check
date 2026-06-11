@@ -1,3 +1,7 @@
+🇩🇪 [Deutsch](SecureBoot-Check_README_GitHub_DE.md) | 🇬🇧 **English**
+
+---
+
 # 🔐 Secure Boot Check
 
 This PowerShell script checks whether your Windows PC is affected by known
@@ -287,7 +291,4 @@ Sources: c't 13/2026 (Axel Vahldiek), Microsoft KB5025885.
 
 This script and the accompanying documentation were developed in collaboration
 with **[Claude Cowork](https://claude.ai)** (Anthropic). The diagnostic approach,
-binary EFI Signature List parser, risk assessment logic, and all written materials
-emerged from an iterative conversation between a human IT administrator and Claude.
-#   S e c u r e B o o t - C h e c k  
- 
+binary EFI Signature List parser, risk assessment logic, and all written material

@@ -1,3 +1,7 @@
+🇩🇪 **Deutsch** | 🇬🇧 [English](SecureBoot-Check_README_GitHub_EN.md)
+
+---
+
 # 🔐 Secure Boot Check
 
 Dieses PowerShell-Skript prüft, ob Ihr Windows-PC von bekannten Problemen
