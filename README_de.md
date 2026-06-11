@@ -1,4 +1,4 @@
-🇩🇪 **Deutsch** | 🇬🇧 [English](SecureBoot-Check_README_GitHub_EN.md)
+🇩🇪 **Deutsch** | 🇬🇧 [English](README.md)
 
 ---
 
